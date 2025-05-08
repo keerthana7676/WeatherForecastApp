@@ -4,22 +4,23 @@ Goal:
 To build a simple Android application that provides weather forecasts based on user-inputted city names. The app retrieves real-time weather data (temperature and humidity) using the OpenWeatherMap API.
 
 2. Technologies Used
-Component	Technology
-Language	Java
-UI Design	XML
-Networking	Retrofit (REST API)
-IDE	Android Studio
-API Provider	OpenWeatherMap
+      Component:	Technology
+      Language:	Java
+      UI Design:	XML
+      Networking:	Retrofit (REST API)
+      IDE:	Android Studio
+      API Provider:	OpenWeatherMap
 
 3. Features
-•	Enter a city name to fetch weather data.
-•	Display current temperature and humidity.
-•	Error handling for invalid or empty city input.
-•	About screen for app info and developer details.
-•	Navigation between screens using explicit intents.
+      i. Enter a city name to fetch weather data.
+      ii. Display current temperature and humidity.
+      iii. Error handling for invalid or empty city input.
+      iv. About screen for app info and developer details.
+      v. Navigation between screens using explicit intents.
+      
 
 
-4. Setup & Installation
+5. Setup & Installation
 
       1. Clone or Download the project from the source.
       2. Open in Android Studio.
@@ -31,11 +32,11 @@ API Provider	OpenWeatherMap
       5. Run the project or build APK via:
          Build > Build Bundle(s)/APK(s) > Build APK(s)
 
-5. Usage Instructions
+6. Usage Instructions
 
-- Enter a valid city name (e.g., "London")
-- Tap "Get Weather" to fetch data
-- Tap "About" to view app details
+      - Enter a valid city name (e.g., "London")
+      - Tap "Get Weather" to fetch data
+      - Tap "About" to view app details
 
 6. Screenshots
 
@@ -53,8 +54,7 @@ API Provider	OpenWeatherMap
        
 7. Developer
 
-Name: Keerthana N
-Email: keerthanan7616@gmail.com
-Version: 1.0
-Date: 05 May 2025
+      Name: Keerthana N, 
+      Email: keerthanan7616@gmail.com, 
+      Date: 05 May 2025
 
