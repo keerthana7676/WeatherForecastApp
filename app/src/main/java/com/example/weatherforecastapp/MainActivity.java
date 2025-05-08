@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnGetWeather;
     TextView tvResult;
 
-    String API_KEY = "e8f84488e9363d3e663a41b089144c5d";  // Replace with your actual API key
+    String API_KEY = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
